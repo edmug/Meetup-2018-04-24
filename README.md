@@ -24,6 +24,8 @@ Simon studied physics and comp sci in school. He got his first .NET programming 
 
 He likes Star Trek, and hopes to spend more time promoting science and democracy.
 
+Slides and example code can be found in this repo [here](https://github.com/edmug/Meetup-2018-04-24/tree/master/Simon%20Yewchuk%20-%20Introduction%20to%20Xamarin).
+
 ### Doug Marquardt - Simple WPF Data Binding
 This will be a brief introduction into data binding in WPF/C#. The main focus will be on few more common scenarios on how to bind models to controls (MVVM pattern), and when/how to use property notifications with your bindings.
 
